@@ -37,35 +37,23 @@ praxis$type[row]
 
 praxis$triad[row]
 
-if (praxis$number[row] == 9) {
+number <- praxis$number[row]
+
+if (number == 9) {
   wing1 <- 8
   wing2 <- 1
-  
-  if(praxis$count[praxis$number == wing1] > praxis$count[praxis$number == wing2]) {
-    wing <- wing1
-  } else {
-    wing <- wing2
-  }
-
-} else if (praxis$number[row] == 1) {
+} else if (number == 1) {
   wing1 <- 9
   wing2 <- 2
-  
-  if(praxis$count[praxis$number == wing1] > praxis$count[praxis$number == wing2]) {
-    wing <- wing1
-  } else {
-    wing <- wing2
-  }
-  
 } else {
-  wing1 <- praxis$number[row]-1
-  wing2 <- praxis$number[row]+1
-  
-  if(praxis$count[praxis$number == wing1] > praxis$count[praxis$number == wing2]) {
-    wing <- wing1
-  } else {
-    wing <- wing2
-  }
+  wing1 <- number - 1
+  wing2 <- number + 1
+}
+
+if (praxis$count[praxis$number == wing1] > praxis$count[praxis$number == wing2]) {
+  wing <- wing1
+} else {
+  wing <- wing2
 }
 
 praxis$count[praxis$number == wing1]
