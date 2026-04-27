@@ -31,44 +31,15 @@ ggplot(praxis, aes(x = factor(type,
         axis.text.x = element_text(size = 13, face = "bold"),
         legend.position = "bottom")
 
+source("scripts/wing_utils.R")
+
 row <- which(praxis$count == max(praxis$count))
 
 praxis$type[row]
 
 praxis$triad[row]
 
-if (praxis$number[row] == 9) {
-  wing1 <- 8
-  wing2 <- 1
-  
-  if(praxis$count[praxis$number == wing1] > praxis$count[praxis$number == wing2]) {
-    wing <- wing1
-  } else {
-    wing <- wing2
-  }
-
-} else if (praxis$number[row] == 1) {
-  wing1 <- 9
-  wing2 <- 2
-  
-  if(praxis$count[praxis$number == wing1] > praxis$count[praxis$number == wing2]) {
-    wing <- wing1
-  } else {
-    wing <- wing2
-  }
-  
-} else {
-  wing1 <- praxis$number[row]-1
-  wing2 <- praxis$number[row]+1
-  
-  if(praxis$count[praxis$number == wing1] > praxis$count[praxis$number == wing2]) {
-    wing <- wing1
-  } else {
-    wing <- wing2
-  }
-}
-
-praxis$count[praxis$number == wing1]
+wing <- calculate_wing(praxis$number[row], praxis)
 
 praxis
 
