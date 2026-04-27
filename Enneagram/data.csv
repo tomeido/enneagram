@@ -1,0 +1,289 @@
+question_no,option,question,letter,type,triad,number,name
+1,1,I've been romantic and imaginative.,E,Four,The Feeling Triad,4,THE INDIVIDUALIST
+1,2,I've been pragmatic and down-to-earth.,B,Six,The Thinking Triad,6,THE LOYALIST
+2,1,I have tended to take on confrontations.,G,Eight,The Instinctive Triad,8,THE CHALLENGER
+2,2,I have tended to avoid confrontations.,A,Nine,The Instinctive Triad,9,THE PEACEMAKER
+3,1,"I have typically been diplomatic, charming and, ambitious.",C,Three,The Feeling Triad,3,THE ACHIEVER
+3,2,"I have typically been direct, formal and, idealistic",D,One,The Instinctive Triad,1,THE REFORMER
+4,1,I have tended to be focused and intense.,H,Five,The Thinking Triad,5,THE INVESTIGATOR
+4,2,I have tended to be spontaneous and fun-loving.,I,Seven,The Thinking Triad,7,THE ENTHUSIAST
+5,1,I have been a hospitable person and have enjoyed welcoming new friends into my life.,F,Two,The Feeling Triad,2,THE HELPER
+5,2,I have been a private person and have not mixed much with others.,E,Four,The Feeling Triad,4,THE INDIVIDUALIST
+6,1,It's been difficult for me to relax and stop worrying about potential problems.,B,Six,The Thinking Triad,6,THE LOYALIST
+6,2,It's been difficult for me to get myself worked up about potential problems.,A,Nine,The Instinctive Triad,9,THE PEACEMAKER
+7,1,"I've been more of a ""street-smart"" survivor.",G,Eight,The Instinctive Triad,8,THE CHALLENGER
+7,2,"I've been more of a ""high-minded"" idealist.",D,One,The Instinctive Triad,1,THE REFORMER
+8,1,I have needed to show affection to people.,F,Two,The Feeling Triad,2,THE HELPER
+8,2,I have preffered to maintain some distance with people,H,Five,The Thinking Triad,5,THE INVESTIGATOR
+9,1,"When presented with a new experience, I've usually asked myself if it would be useful to me.",C,Three,The Feeling Triad,3,THE ACHIEVER
+9,2,"When presented with a new experience, I've usually asked myself if it would be enjoyable.",I,Seven,The Thinking Triad,7,THE ENTHUSIAST
+10,1,I have tended to focus too much on myself.,E,Four,The Feeling Triad,4,THE INDIVIDUALIST
+10,2,I have tended to focus too much on others.,A,Nine,The Instinctive Triad,9,THE PEACEMAKER
+11,1,Others have depended on my insight and knowledge.,H,Five,The Thinking Triad,5,THE INVESTIGATOR
+11,2,Others have depended on my strength and decisiveness.,G,Eight,The Instinctive Triad,8,THE CHALLENGER
+12,1,I have come across as being too unsure of myself.,B,Six,The Thinking Triad,6,THE LOYALIST
+12,2,I have come across as being too sure of myself.,D,One,The Instinctive Triad,1,THE REFORMER
+13,1,I have been more relationship-oriented than goal-oriented.,F,Two,The Feeling Triad,2,THE HELPER
+13,2,I have been more goal-oriented than relationship-oriented.,C,Three,The Feeling Triad,3,THE ACHIEVER
+14,1,I have not been able to speak up for myself very well.,E,Four,The Feeling Triad,4,THE INDIVIDUALIST
+14,2,I have been outspoken - I've said what others wished they had the nerve to say.,I,Seven,The Thinking Triad,7,THE ENTHUSIAST
+15,1,It's been difficult for me to stop considering alternatives and do something definite.,H,Five,The Thinking Triad,5,THE INVESTIGATOR
+15,2,It's been difficult for me to take it easy and be more flexible.,D,One,The Instinctive Triad,1,THE REFORMER
+16,1,I have tended to be careful and hesitant.,B,Six,The Thinking Triad,6,THE LOYALIST
+16,2,I have tended to be bold and domineering.,G,Eight,The Instinctive Triad,8,THE CHALLENGER
+17,1,My reluctance to get too involved has gotten me into trouble with people.,A,Nine,The Instinctive Triad,9,THE PEACEMAKER
+17,2,My eagerness to have people depend on me has gotten me into trouble with them.,F,Two,The Feeling Triad,2,THE HELPER
+18,1,"Usually, I have been able to put my feelings aside to get the job done.",C,Three,The Feeling Triad,3,THE ACHIEVER
+18,2,"Usually, I have needed to work through my feelings before I could act.",E,Four,The Feeling Triad,4,THE INDIVIDUALIST
+19,1,"Generally, I've been methodical and cautious.",B,Six,The Thinking Triad,6,THE LOYALIST
+19,2,"Generally, I've been adventurous and taken risks.",I,Seven,The Thinking Triad,7,THE ENTHUSIAST
+20,1,"I have tended to be a supportive, giving person who seeks intimacy with others.",F,Two,The Feeling Triad,2,THE HELPER
+20,2,"I have tended to be a serious, reserved person who likes discussin issues.",D,One,The Instinctive Triad,1,THE REFORMER
+21,1,"I've often felt the need to be a ""pillar of strenght"".",G,Eight,The Instinctive Triad,8,THE CHALLENGER
+21,2,I've often felt the need to perform perfectly.,C,Three,The Feeling Triad,3,THE ACHIEVER
+22,1,I've typically been interested in asking tough questions and maintaining my independence.,H,Five,The Thinking Triad,5,THE INVESTIGATOR
+22,2,I've typically been interested in maintaining my stability and peace of mind.,A,Nine,The Instinctive Triad,9,THE PEACEMAKER
+23,1,I've been a bit cynical and skeptical.,B,Six,The Thinking Triad,6,THE LOYALIST
+23,2,I've been a bit mushy and sentimental.,F,Two,The Feeling Triad,2,THE HELPER
+24,1,I've often worried that I'm missing out on something better.,I,Seven,The Thinking Triad,7,THE ENTHUSIAST
+24,2,"I've often worried that if I let down my guard, someone will take advantage of me.",G,Eight,The Instinctive Triad,8,THE CHALLENGER
+25,1,"My habit of being ""stand-offish"" has annoyed people.",E,Four,The Feeling Triad,4,THE INDIVIDUALIST
+25,2,My habit of telling people what to do has annoyed people.,D,One,The Instinctive Triad,1,THE REFORMER
+26,1,I have tended to get anxious if there was too much excitement and stimulation.,A,Nine,The Instinctive Triad,9,THE PEACEMAKER
+26,2,I have tended to get anxious if there wasn't enough excitement and stimulation.,I,Seven,The Thinking Triad,7,THE ENTHUSIAST
+27,1,I have depended on my friends and they have known that they can depend on me.,B,Six,The Thinking Triad,6,THE LOYALIST
+27,2,I have not depended on people; I have done things on my own.,C,Three,The Feeling Triad,3,THE ACHIEVER
+28,1,I have tended to be detached and preoccupied.,H,Five,The Thinking Triad,5,THE INVESTIGATOR
+28,2,I have tended to be moody and self-absorbed.,E,Four,The Feeling Triad,4,THE INDIVIDUALIST
+29,1,"I have liked to challenge people and ""shake them up"".",G,Eight,The Instinctive Triad,8,THE CHALLENGER
+29,2,I have liked to comfort people and calm them down.,F,Two,The Feeling Triad,2,THE HELPER
+30,1,"I have generally been an outgoing, sociable person.",I,Seven,The Thinking Triad,7,THE ENTHUSIAST
+30,2,"I have generally been an earnest, self-disciplined person.",D,One,The Instinctive Triad,1,THE REFORMER
+31,1,"I've wanted to ""fit in"" with others - I get uncomfortable when I stand out too much.",A,Nine,The Instinctive Triad,9,THE PEACEMAKER
+31,2,I've wanted to stand out from others - I get uncomfortable when I don't distinguish myself.,C,Three,The Feeling Triad,3,THE ACHIEVER
+32,1,Pursuing my personal interests has been more important to me than having stability and security.,H,Five,The Thinking Triad,5,THE INVESTIGATOR
+32,2,Having stability and security has been more important to me than pursuing my personal interests.,B,Six,The Thinking Triad,6,THE LOYALIST
+33,1,"When I've had conflicts with others, I've tended to withdraw.",E,Four,The Feeling Triad,4,THE INDIVIDUALIST
+33,2,"When I've had conflicts with others, I've  rarely backed down.",G,Eight,The Instinctive Triad,8,THE CHALLENGER
+34,1,I have given in too easily and let others push me around.,A,Nine,The Instinctive Triad,9,THE PEACEMAKER
+34,2,I have been too uncompromising and demanding with others.,D,One,The Instinctive Triad,1,THE REFORMER
+35,1,I've been appreciated for my unsinkable spirit and resourcefulness.,I,Seven,The Thinking Triad,7,THE ENTHUSIAST
+35,2,I've been appreciated for my deep caring and personal warmth.,F,Two,The Feeling Triad,2,THE HELPER
+36,1,I have wanted to make a favorable impression on others.,C,Three,The Feeling Triad,3,THE ACHIEVER
+36,2,I have cared little about making a favorable impression on others.,H,Five,The Thinking Triad,5,THE INVESTIGATOR
+37,1,I've depended on my perseverance and common sense.,B,Six,The Thinking Triad,6,THE LOYALIST
+37,2,I've depended on my imagination and moments of inspiration.,E,Four,The Feeling Triad,4,THE INDIVIDUALIST
+38,1,"Basically, I've been easy-going and agreeable.",A,Nine,The Instinctive Triad,9,THE PEACEMAKER
+38,2,"Basically, I've been hard-driving and assertive.",G,Eight,The Instinctive Triad,8,THE CHALLENGER
+39,1,I have worked hard to be accepted and well-liked.,C,Three,The Feeling Triad,3,THE ACHIEVER
+39,2,Being accepted and well-liked has not been a high priority for me.,D,One,The Instinctive Triad,1,THE REFORMER
+40,1,"In reaction to pressure from others, I have become more withdrawn.",H,Five,The Thinking Triad,5,THE INVESTIGATOR
+40,2,"In reaction to pressure from others, I have become more assertive.",I,Seven,The Thinking Triad,7,THE ENTHUSIAST
+41,1,"People have been interested in me because I've been outgoing, engaging, and interested in them.",F,Two,The Feeling Triad,2,THE HELPER
+41,2,"People have been interested in me because I've been quiet, unusual, and deep.",E,Four,The Feeling Triad,4,THE INDIVIDUALIST
+42,1,Duty and responsibility have been important values for me.,B,Six,The Thinking Triad,6,THE LOYALIST
+42,2,Harmony and acceptance have been important values for me.,A,Nine,The Instinctive Triad,9,THE PEACEMAKER
+43,1,I've tried to motivate people by making big plans and big promises.,G,Eight,The Instinctive Triad,8,THE CHALLENGER
+43,2,I've tried to motivate people by pointing out the consequences of not following my advice.,D,One,The Instinctive Triad,1,THE REFORMER
+44,1,I have seldom been emotionally demonstrative.,H,Five,The Thinking Triad,5,THE INVESTIGATOR
+44,2,I have often been emotionally demonstrative. ,F,Two,The Feeling Triad,2,THE HELPER
+45,1,Dealing with the details has not been one of my strong suits.,I,Seven,The Thinking Triad,7,THE ENTHUSIAST
+45,2,I have excelled at dealing with details.,C,Three,The Feeling Triad,3,THE ACHIEVER
+46,1,"I have often emphasized how different I am from most people, especially my family.",E,Four,The Feeling Triad,4,THE INDIVIDUALIST
+46,2,"I have often emphasized how much I have in common with most people, especially my family.",A,Nine,The Instinctive Triad,9,THE PEACEMAKER
+47,1,"When situations have gotten heated, I have tended to stay on the sidelines.",H,Five,The Thinking Triad,5,THE INVESTIGATOR
+47,2,"When situations have gotten heated, I have tended to get right into the middle of things.",G,Eight,The Instinctive Triad,8,THE CHALLENGER
+48,1,"I have stood by my friends, even when they have been wrong.",B,Six,The Thinking Triad,6,THE LOYALIST
+48,2,"I have not wanted to compromise what is right, even for friendship.",D,One,The Instinctive Triad,1,THE REFORMER
+49,1,I've been a well-meaning supporter.,F,Two,The Feeling Triad,2,THE HELPER
+49,2,I've been a highly-motivated go-getter.,C,Three,The Feeling Triad,3,THE ACHIEVER
+50,1,"When troubled, I have tended to brood about my problems.",E,Four,The Feeling Triad,4,THE INDIVIDUALIST
+50,2,"When troubled, I have tended to find distractions for myself.",I,Seven,The Thinking Triad,7,THE ENTHUSIAST
+51,1,"Generally, I've had strong convictions and a sense of how things should be.",D,One,The Instinctive Triad,1,THE REFORMER
+51,2,"Generally, I've had serious doubts and have questioned how things seemed to be.",H,Five,The Thinking Triad,5,THE INVESTIGATOR
+52,1,I've created problems with others by being pessimistic and complaining.,B,Six,The Thinking Triad,6,THE LOYALIST
+52,2,I've created problems with others by being bossy and controlling.,G,Eight,The Instinctive Triad,8,THE CHALLENGER
+53,1,"I have tended to act on my feelings and let the ""chips fall where they may"".",F,Two,The Feeling Triad,2,THE HELPER
+53,2,I have tended not to act on my feelings lest they stir up more problems. ,A,Nine,The Instinctive Triad,9,THE PEACEMAKER
+54,1,Being the center of attention has usually felt natural to me.,C,Three,The Feeling Triad,3,THE ACHIEVER
+54,2,Being the center of attention has usually felt strange to me.,E,Four,The Feeling Triad,4,THE INDIVIDUALIST
+55,1,I've been careful and have tried to preapre for unforeseen problems.,B,Six,The Thinking Triad,6,THE LOYALIST
+55,2,I've been spontaneous and have preferred to improvise as problems come up.,I,Seven,The Thinking Triad,7,THE ENTHUSIAST
+56,1,I have gotten angry when others have not shown enough appreciation for what I have done for them.,F,Two,The Feeling Triad,2,THE HELPER
+56,2,I have gotten angry when others have not listened to what I have told them.,D,One,The Instinctive Triad,1,THE REFORMER
+57,1,Being independent and self-reliant has been important to me.,G,Eight,The Instinctive Triad,8,THE CHALLENGER
+57,2,Being valued and admired has been important to me.,C,Three,The Feeling Triad,3,THE ACHIEVER
+58,1,"When I've debated with friends, I've tended to press my arguments forcefully.",H,Five,The Thinking Triad,5,THE INVESTIGATOR
+58,2,"When I've debated with friends, I've tended to let things go to prevent hard feelings.",A,Nine,The Instinctive Triad,9,THE PEACEMAKER
+59,1,I have often been possessive of loved ones - I've had trouble letting them be.,F,Two,The Feeling Triad,2,THE HELPER
+59,2,"I have often ""tested"" loved ones to see if they were really there for me.",B,Six,The Thinking Triad,6,THE LOYALIST
+60,1,Organizing resources and making things happen has been one of my major strengths.,G,Eight,The Instinctive Triad,8,THE CHALLENGER
+60,2,Coming up with new ideas and getting people excited about them has been one of my major strengths.,I,Seven,The Thinking Triad,7,THE ENTHUSIAST
+61,1,I've tended to be driven and very hard on myself.,D,One,The Instinctive Triad,1,THE REFORMER
+61,2,I've tended to be too emotional and rather undisciplined. ,E,Four,The Feeling Triad,4,THE INDIVIDUALIST
+62,1,"I have tried to keep my life fast-paced, intense, and exciting.",I,Seven,The Thinking Triad,7,THE ENTHUSIAST
+62,2,"I have tried to keep my life regular, stable, and peaceful.",A,Nine,The Instinctive Triad,9,THE PEACEMAKER
+63,1,"Even though I've had successes, I've tended to doubt my abilities.",B,Six,The Thinking Triad,6,THE LOYALIST
+63,2,"Even though I've had setbacks, I've had a lot of confidence in my abilities.",C,Three,The Feeling Triad,3,THE ACHIEVER
+64,1,I generally have tended to dwell on my feelings and to hold onto them for a long time.,E,Four,The Feeling Triad,4,THE INDIVIDUALIST
+64,2,I generally have tended to minimize my feelings and not pay very much attention to them.,H,Five,The Thinking Triad,5,THE INVESTIGATOR
+65,1,I have provided many people with attention and nurturance.,F,Two,The Feeling Triad,2,THE HELPER
+65,2,I have provided many people with direction and motivation.,G,Eight,The Instinctive Triad,8,THE CHALLENGER
+66,1,I've been a bit serious and strict with myself.,D,One,The Instinctive Triad,1,THE REFORMER
+66,2,I've been a bit free-wheeling and permissive with myself.,I,Seven,The Thinking Triad,7,THE ENTHUSIAST
+67,1,I've been self-assertive and driven to excel.,C,Three,The Feeling Triad,3,THE ACHIEVER
+67,2,I've been modest and have been happy to go at my own pace.,A,Nine,The Instinctive Triad,9,THE PEACEMAKER
+68,1,I have been proud of my clarity and objectivity.,H,Five,The Thinking Triad,5,THE INVESTIGATOR
+68,2,I have been proud of my reliability and commitment.,B,Six,The Thinking Triad,6,THE LOYALIST
+69,1,I have spent a lot of time looking inward - understanding my feelings has been important to me.,E,Four,The Feeling Triad,4,THE INDIVIDUALIST
+69,2,I have not spent much time looking inward - gettings things done has been important to me.,G,Eight,The Instinctive Triad,8,THE CHALLENGER
+70,1,"Generally, I have thought of myself as a sunny, casual person.",A,Nine,The Instinctive Triad,9,THE PEACEMAKER
+70,2,"Generally, I have thought of myself as a serious, dignified person.",D,One,The Instinctive Triad,1,THE REFORMER
+71,1,I've had an agile mind and boundless energy.,I,Seven,The Thinking Triad,7,THE ENTHUSIAST
+71,2,I've had a caring heart and deep dedication.,F,Two,The Feeling Triad,2,THE HELPER
+72,1,I have pursued activities that had a substantial potential for reward and personal recognition.,C,Three,The Feeling Triad,3,THE ACHIEVER
+72,2,I have been willing to give up reward and personal recognition if it meant doing work I was really interested in.,H,Five,The Thinking Triad,5,THE INVESTIGATOR
+73,1,Fulfilling social obligations has seldom been high on my agenda.,E,Four,The Feeling Triad,4,THE INDIVIDUALIST
+73,2,I have usually taken my social obligations very seriously.,B,Six,The Thinking Triad,6,THE LOYALIST
+74,1,"In most situations, I have preferred to take the lead.",G,Eight,The Instinctive Triad,8,THE CHALLENGER
+74,2,"In most situations, I have preferred to let someone else take the lead.",A,Nine,The Instinctive Triad,9,THE PEACEMAKER
+75,1,"Over the years, my values and lifestyle have changed several times.",C,Three,The Feeling Triad,3,THE ACHIEVER
+75,2,"Over the years, my values and lifestyle have remained fairly consistent.",D,One,The Instinctive Triad,1,THE REFORMER
+76,1,"Typically, I have not had much self-discipline.",I,Seven,The Thinking Triad,7,THE ENTHUSIAST
+76,2,"Typically, I have not had much connection with people.",H,Five,The Thinking Triad,5,THE INVESTIGATOR
+77,1,I have tended to withhold my affection and have wanted others to come into my world.,E,Four,The Feeling Triad,4,THE INDIVIDUALIST
+77,2,I have tended to give my affection too freely and have wanted to extend myself to others.,F,Two,The Feeling Triad,2,THE HELPER
+78,1,I have had a tendency to think of worst-case scenarios.,B,Six,The Thinking Triad,6,THE LOYALIST
+78,2,I have had a tendency to think that everything will work out for the best.,A,Nine,The Instinctive Triad,9,THE PEACEMAKER
+79,1,People have trusted me because I am confident and can look out for them.,G,Eight,The Instinctive Triad,8,THE CHALLENGER
+79,2,People have trusted me because I am fair and will do what is right.,D,One,The Instinctive Triad,1,THE REFORMER
+80,1,"Often, I have been so involved in my own projects that I have become isolated from others.",H,Five,The Thinking Triad,5,THE INVESTIGATOR
+80,2,"Often, I have been so involved with others that I have neglected my own projects.",F,Two,The Feeling Triad,2,THE HELPER
+81,1,"When meeting someone new, I have usually been poised and self-contained.",C,Three,The Feeling Triad,3,THE ACHIEVER
+81,2,"When meeting someone new, I have usually been chatty and entertaining.",I,Seven,The Thinking Triad,7,THE ENTHUSIAST
+82,1,"Generally speaking, I have tended to be pessimistic.",E,Four,The Feeling Triad,4,THE INDIVIDUALIST
+82,2,"Generally speaking, I have tended to be optimistic.",A,Nine,The Instinctive Triad,9,THE PEACEMAKER
+83,1,I have preferred to inhabit my own little world.,H,Five,The Thinking Triad,5,THE INVESTIGATOR
+83,2,I have preferred to let the world know I'm here.,G,Eight,The Instinctive Triad,8,THE CHALLENGER
+84,1,"I have often been troubled by nervousness, insecurity, and doubt.",B,Six,The Thinking Triad,6,THE LOYALIST
+84,2,"I have often been troubled by anger, perfectionism, and impatience.",D,One,The Instinctive Triad,1,THE REFORMER
+85,1,I realize that I have often been too personal and intimate.,F,Two,The Feeling Triad,2,THE HELPER
+85,2,I realize that I have often been too cool and aloof.,C,Three,The Feeling Triad,3,THE ACHIEVER
+86,1,I have lost out because I have not felt up to taking opportunities.,E,Four,The Feeling Triad,4,THE INDIVIDUALIST
+86,2,I have lost out because I have pursued too many possibilities.,I,Seven,The Thinking Triad,7,THE ENTHUSIAST
+87,1,I have tended to take a long time to get into action.,H,Five,The Thinking Triad,5,THE INVESTIGATOR
+87,2,I have tended to get into action quickly.,D,One,The Instinctive Triad,1,THE REFORMER
+88,1,I usually have had difficulty making decisions.,B,Six,The Thinking Triad,6,THE LOYALIST
+88,2,I seldom have had difficulty making decisions.,G,Eight,The Instinctive Triad,8,THE CHALLENGER
+89,1,I have had a tendency to come on a little too strong with people.,F,Two,The Feeling Triad,2,THE HELPER
+89,2,I have had a tendency not to assert myself enough with people.,A,Nine,The Instinctive Triad,9,THE PEACEMAKER
+90,1,"Typically, I have been even-tempered.",C,Three,The Feeling Triad,3,THE ACHIEVER
+90,2,"Typically, I have had strong changes of mood.",E,Four,The Feeling Triad,4,THE INDIVIDUALIST
+91,1,"When I've been unsure of what to do, I've often sought the advice of others.",B,Six,The Thinking Triad,6,THE LOYALIST
+91,2,"When I've been unsure of what to do, I've tried different things to see what worked best for me.",I,Seven,The Thinking Triad,7,THE ENTHUSIAST
+92,1,I have worried that I would be left out of others' activities.,F,Two,The Feeling Triad,2,THE HELPER
+92,2,I have worries that others' activities would distract me from what I had to do.,D,One,The Instinctive Triad,1,THE REFORMER
+93,1,"Typically, when I've gotten angry, I've told people off.",G,Eight,The Instinctive Triad,8,THE CHALLENGER
+93,2,"Typically, when I've gotten angry, I've become distant.",C,Three,The Feeling Triad,3,THE ACHIEVER
+94,1,I've tended to have trouble falling asleep.,H,Five,The Thinking Triad,5,THE INVESTIGATOR
+94,2,I've tended to fall asleep easily.,A,Nine,The Instinctive Triad,9,THE PEACEMAKER
+95,1,I have often tried to figure out how I could get closer to others.,F,Two,The Feeling Triad,2,THE HELPER
+95,2,I have often tried to figure out what others want from me.,B,Six,The Thinking Triad,6,THE LOYALIST
+96,1,"I have usually been measured, straight-talking, and deliberate.",G,Eight,The Instinctive Triad,8,THE CHALLENGER
+96,2,"I have usually been excitable, fast-talking, and witty.",I,Seven,The Thinking Triad,7,THE ENTHUSIAST
+97,1,"Often, I have not spoken up when I've seen others making a mistake.",E,Four,The Feeling Triad,4,THE INDIVIDUALIST
+97,2,"Often, I have helped others see that they are making a mistake.",D,One,The Instinctive Triad,1,THE REFORMER
+98,1,"During most of my life, I have been a stormy person who has had many volatile feelings.",I,Seven,The Thinking Triad,7,THE ENTHUSIAST
+98,2,"During most of my life, I have been a steady person in whom ""still waters run deep"".",A,Nine,The Instinctive Triad,9,THE PEACEMAKER
+99,1,"When I have disliked people, I have usually tried hard to stay cordial - despite my feelings.",C,Three,The Feeling Triad,3,THE ACHIEVER
+99,2,"When I have disliked people, I have usually let them know it - one way or another.",B,Six,The Thinking Triad,6,THE LOYALIST
+100,1,Much of my difficulty with people has come from my touchiness and taking everything too personally.,E,Four,The Feeling Triad,4,THE INDIVIDUALIST
+100,2,Much of my difficulty with people has come from my not caring about social conventions.,H,Five,The Thinking Triad,5,THE INVESTIGATOR
+101,1,My approach has been to jump in and rescue people.,F,Two,The Feeling Triad,2,THE HELPER
+101,2,My approach has been to show people how to help themselves.,G,Eight,The Instinctive Triad,8,THE CHALLENGER
+102,1,"Generally, I have enjoyed ""letting go"" and pushing the limits.",I,Seven,The Thinking Triad,7,THE ENTHUSIAST
+102,2,"Generally, I have not enjoyed losing control of myself very much.",D,One,The Instinctive Triad,1,THE REFORMER
+103,1,I've been overly concerned with doing better than others.,C,Three,The Feeling Triad,3,THE ACHIEVER
+103,2,I've been overly concerned with making things okay for others.,A,Nine,The Instinctive Triad,9,THE PEACEMAKER
+104,1,My thoughts generally have been speculative - involving my imagination and curiosity.,H,Five,The Thinking Triad,5,THE INVESTIGATOR
+104,2,My thoughts generally have been pracitcal - just trying to keep things going.,B,Six,The Thinking Triad,6,THE LOYALIST
+105,1,One of my main assets has been my ability to take charge of situations.,G,Eight,The Instinctive Triad,8,THE CHALLENGER
+105,2,One of my main assets has been my ability to describe internal states.,E,Four,The Feeling Triad,4,THE INDIVIDUALIST
+106,1,"I have pushed to get things done correctly, even if it made people uncomfortable.",D,One,The Instinctive Triad,1,THE REFORMER
+106,2,"I have not liked feeling pressured, so I have not liked pressuring anyone else.",A,Nine,The Instinctive Triad,9,THE PEACEMAKER
+107,1,I've often taken pride in how important I am in others' lives.,F,Two,The Feeling Triad,2,THE HELPER
+107,2,I've often taken pride in my gusto and opennes to new experiences.,I,Seven,The Thinking Triad,7,THE ENTHUSIAST
+108,1,"I have perceived that I've often come across to others as presentable, even admirable.",C,Three,The Feeling Triad,3,THE ACHIEVER
+108,2,"I have perceived that I've often come across to others as unusal, even odd.",H,Five,The Thinking Triad,5,THE INVESTIGATOR
+109,1,I have mostly done what I had to do.,B,Six,The Thinking Triad,6,THE LOYALIST
+109,2,I have mostly done what I wanted to do.,E,Four,The Feeling Triad,4,THE INDIVIDUALIST
+110,1,"I have usually enjoyed high-pressure, even difficult, situations.",G,Eight,The Instinctive Triad,8,THE CHALLENGER
+110,2,"I have usually disliked being in high-pressure, even difficult, situations. ",A,Nine,The Instinctive Triad,9,THE PEACEMAKER
+111,1,I've been proud of my ability to be flexible - what's appropriate or important often changes.,C,Three,The Feeling Triad,3,THE ACHIEVER
+111,2,I've been proud of my ability to take a stand - I've been firm about what I believe in.,D,One,The Instinctive Triad,1,THE REFORMER
+112,1,My style has leaned toward spareness and austerity.,H,Five,The Thinking Triad,5,THE INVESTIGATOR
+112,2,My style has leaned toward excess and overdoing things.,I,Seven,The Thinking Triad,7,THE ENTHUSIAST
+113,1,My own health and well-being have suffered because of my strong desire to help others.,F,Two,The Feeling Triad,2,THE HELPER
+113,2,My relationships have suffered because of my strong desire to attend to my personal needs.,E,Four,The Feeling Triad,4,THE INDIVIDUALIST
+114,1,"Generally speaking, I've been too open and naïve.",A,Nine,The Instinctive Triad,9,THE PEACEMAKER
+114,2,"Generally speaking, I've been too wary and guarded.",B,Six,The Thinking Triad,6,THE LOYALIST
+115,1,I have sometimes put people off by being too aggressive.,G,Eight,The Instinctive Triad,8,THE CHALLENGER
+115,2,"I have sometimes put people off by being too ""uptight"".",D,One,The Instinctive Triad,1,THE REFORMER
+116,1,Being of service and attending to the needs of others has been a high priority for me.,F,Two,The Feeling Triad,2,THE HELPER
+116,2,Finding alternative ways of seeing and doing things has been a high priority for me.,H,Five,The Thinking Triad,5,THE INVESTIGATOR
+117,1,I've been single-minded and persistent in pursuing my goals.,C,Three,The Feeling Triad,3,THE ACHIEVER
+117,2,I've preferred to explore various courses of action to see where they lead.,I,Seven,The Thinking Triad,7,THE ENTHUSIAST
+118,1,"I have frequently been drawn to situations that stir up deep, intense emotions.",E,Four,The Feeling Triad,4,THE INDIVIDUALIST
+118,2,I have frequently been drawn to situations that make me feel calm and at ease.,A,Nine,The Instinctive Triad,9,THE PEACEMAKER
+119,1,I have cared less about practical results than about pursuing my interests.,H,Five,The Thinking Triad,5,THE INVESTIGATOR
+119,2,I have been practical and have expected my work to have concrete results.,G,Eight,The Instinctive Triad,8,THE CHALLENGER
+120,1,I have had a deep need to belong.,B,Six,The Thinking Triad,6,THE LOYALIST
+120,2,I have had a deep need to feel balanced.,D,One,The Instinctive Triad,1,THE REFORMER
+121,1,"In the past, I've probably insisted on too much closeness in my friendships.",F,Two,The Feeling Triad,2,THE HELPER
+121,2,"In the past, I've probably kept too much distance in my friendships.",C,Three,The Feeling Triad,3,THE ACHIEVER
+122,1,I've had a tendency to keep thining about things from the past.,E,Four,The Feeling Triad,4,THE INDIVIDUALIST
+122,2,I've had a tendency to keep anticipating things I'm going to do.,I,Seven,The Thinking Triad,7,THE ENTHUSIAST
+123,1,I've tended to see people as intrusive and demanding.,H,Five,The Thinking Triad,5,THE INVESTIGATOR
+123,2,I've tended to see people as disorganized and irresponsible.,D,One,The Instinctive Triad,1,THE REFORMER
+124,1,"Generally, I have no had much confidence in myself.",B,Six,The Thinking Triad,6,THE LOYALIST
+124,2,"Generally, I have had confidence only in myself.",G,Eight,The Instinctive Triad,8,THE CHALLENGER
+125,1,I've probably been too passive and uninvolved.,A,Nine,The Instinctive Triad,9,THE PEACEMAKER
+125,2,I've probably been too controlling and manipulative.,F,Two,The Feeling Triad,2,THE HELPER
+126,1,I've frequently been stopped in my tracks by my self doubt.,E,Four,The Feeling Triad,4,THE INDIVIDUALIST
+126,2,I've rarely let self-doubt stand in my way.,C,Three,The Feeling Triad,3,THE ACHIEVER
+127,1,"Given a choice between something familiar and something new, I've usually chosen something new.",I,Seven,The Thinking Triad,7,THE ENTHUSIAST
+127,2,I've generally chosen what I knew I already liked: why be disappointed with something I might not like?,B,Six,The Thinking Triad,6,THE LOYALIST
+128,1,I have given a lot of physical contact to reassure others about how I feel about them.,F,Two,The Feeling Triad,2,THE HELPER
+128,2,I have generally felt that real love does not depend on physical contact.,D,One,The Instinctive Triad,1,THE REFORMER
+129,1,"When I've needed to confront someone, I've often been too harsh and direct.",G,Eight,The Instinctive Triad,8,THE CHALLENGER
+129,2,"When I've needed to confront someone, I've often ""beaten around the bush"" too much.",C,Three,The Feeling Triad,3,THE ACHIEVER
+130,1,"I have been attracted to subjects that others would probably find disturbing, even frightening.",H,Five,The Thinking Triad,5,THE INVESTIGATOR
+130,2,I have preferred not to spend my time dwelling on disturbing fightening subjects.,A,Nine,The Instinctive Triad,9,THE PEACEMAKER
+131,1,I have gotten into trouble with people by being too intrusive and interfering.,F,Two,The Feeling Triad,2,THE HELPER
+131,2,I have gotten into trouble with people by being too evasive and uncommunicative.,B,Six,The Thinking Triad,6,THE LOYALIST
+132,1,I've worried that I don't have the resources to fuliff the responsibilities I've taken on.,G,Eight,The Instinctive Triad,8,THE CHALLENGER
+132,2,I've worried that I don't have the self-discipline to focus on what will really fulfill me.,I,Seven,The Thinking Triad,7,THE ENTHUSIAST
+133,1,"Generally, I've been a highly intuitive, individualistic person.",E,Four,The Feeling Triad,4,THE INDIVIDUALIST
+133,2,"Generally, I've been a highly organized, responsible person.",D,One,The Instinctive Triad,1,THE REFORMER
+134,1,Overcoming inertia has been one of my main problems.,A,Nine,The Instinctive Triad,9,THE PEACEMAKER
+134,2,Being unable to slow down has been one of my main problems.,I,Seven,The Thinking Triad,7,THE ENTHUSIAST
+135,1,"When I've felt insecure, I've reacted by becoming arrogant and disimissive.",C,Three,The Feeling Triad,3,THE ACHIEVER
+135,2,"When I've felt insecure, I've reacted by becoming defensive and argumentative.",B,Six,The Thinking Triad,6,THE LOYALIST
+136,1,I have generally been open-minded and willing to try new approaches.,H,Five,The Thinking Triad,5,THE INVESTIGATOR
+136,2,I have generally been self-revealing and willing to share my feelings with others.,E,Four,The Feeling Triad,4,THE INDIVIDUALIST
+137,1,I've presented myself to others as tougher than I really am.,G,Eight,The Instinctive Triad,8,THE CHALLENGER
+137,2,I've presented myself to others as caring more than I really do.,F,Two,The Feeling Triad,2,THE HELPER
+138,1,I usually have followed my conscience and reason.,D,One,The Instinctive Triad,1,THE REFORMER
+138,2,I usually have followed my feelings and impulses.,I,Seven,The Thinking Triad,7,THE ENTHUSIAST
+139,1,Serious adversity has made me feel hardened and resolute.,C,Three,The Feeling Triad,3,THE ACHIEVER
+139,2,Serious adversity has made me feel discouraged and resigned.,A,Nine,The Instinctive Triad,9,THE PEACEMAKER
+140,1,"I usually have made sure that I had some kind of ""safety net"" to fall back on.",B,Six,The Thinking Triad,6,THE LOYALIST
+140,2,I usually have chosen to live on the edge and to depend on others as little as possible.,H,Five,The Thinking Triad,5,THE INVESTIGATOR
+141,1,"I've had to be strong for others, so I haven't had time to deal with my feelings and fears.",G,Eight,The Instinctive Triad,8,THE CHALLENGER
+141,2,"I've had difficulty coping with my feelings and fears, so it's been hard for me to be strong for others.",E,Four,The Feeling Triad,4,THE INDIVIDUALIST
+142,1,I have often wondered why people focus on the negative when there is so much that's wonderful about life.,A,Nine,The Instinctive Triad,9,THE PEACEMAKER
+142,2,I have often wondered why people are so happy when so much in life is messed up.,D,One,The Instinctive Triad,1,THE REFORMER
+143,1,I have tried hard not to be seen as a selfish person.,F,Two,The Feeling Triad,2,THE HELPER
+143,2,I have tried hard not to be seen as a boring person.,I,Seven,The Thinking Triad,7,THE ENTHUSIAST
+144,1,I have avoided intimacy when I feared I would be overwhelmed by people's needs and demands.,H,Five,The Thinking Triad,5,THE INVESTIGATOR
+144,2,I have avoided intimacy when I feared I would not be able to live up to people's expectations of me.,C,Three,The Feeling Triad,3,THE ACHIEVER
