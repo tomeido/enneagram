@@ -3,7 +3,7 @@ library(shinyWidgets)
 library(tidyverse)
 library(ggthemes)
 
-load("data.RData")
+data <- read_csv("data.csv")
 
 ui <- fluidPage(
     tags$head(
