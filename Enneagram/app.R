@@ -3,6 +3,8 @@ library(shinyWidgets)
 library(tidyverse)
 library(ggthemes)
 
+source("wing_utils.R")
+
 data <- read_csv("data.csv")
 
 ui <- fluidPage(
@@ -134,23 +136,7 @@ server <- function(input, output, session) {
         row <- which(rv_filtered()$count == max(rv_filtered()$count))
         number <- rv_filtered()$number[row]
 
-        if (number == 9) {
-            wing1 <- 8
-            wing2 <- 1
-        } else if (number == 1) {
-            wing1 <- 9
-            wing2 <- 2
-        } else {
-            wing1 <- number - 1
-            wing2 <- number + 1
-        }
-
-        if (rv_filtered()$count[rv_filtered()$number == wing1] >
-            rv_filtered()$count[rv_filtered()$number == wing2]) {
-            wing <- wing1
-        } else {
-            wing <- wing2
-        }
+        wing <- calculate_wing(number, rv_filtered())
 
         paste0(number, "w", wing)
 

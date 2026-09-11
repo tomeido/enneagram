@@ -1,6 +1,12 @@
 library(tidyverse)
 library(ggthemes)
 
+if (file.exists("Enneagram/wing_utils.R")) {
+  source("Enneagram/wing_utils.R")
+} else {
+  source("../Enneagram/wing_utils.R")
+}
+
 praxis <- tibble(letter = c("A", "B", "C", "D", "E", "F", "G", "H", "I"),
                  count  = c(20, 16, 15, 12, 18, 18, 14, 15, 16),
                  type   = c("Nine", "Six", "Three", "One", "Four", "Two", "Eight", "Five", "Seven"),
@@ -39,24 +45,7 @@ praxis$triad[row]
 
 number <- praxis$number[row]
 
-if (number == 9) {
-  wing1 <- 8
-  wing2 <- 1
-} else if (number == 1) {
-  wing1 <- 9
-  wing2 <- 2
-} else {
-  wing1 <- number - 1
-  wing2 <- number + 1
-}
-
-if (praxis$count[praxis$number == wing1] > praxis$count[praxis$number == wing2]) {
-  wing <- wing1
-} else {
-  wing <- wing2
-}
-
-praxis$count[praxis$number == wing1]
+wing <- calculate_wing(number, praxis)
 
 praxis
 
