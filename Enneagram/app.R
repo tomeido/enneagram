@@ -3,9 +3,9 @@ library(shinyWidgets)
 library(tidyverse)
 library(ggthemes)
 
-source("../scripts/wing_utils.R")
+source("wing_utils.R")
 
-load("data.RData")
+data <- read_csv("data.csv")
 
 ui <- fluidPage(
     tags$head(
@@ -80,15 +80,26 @@ server <- function(input, output, session) {
     rv_answers <- reactive({
         lapply(1:144, function(i) input[[paste0('a', i)]])
     })
-    
+
+    rv_selected_data <- reactive({
+        data %>%
+            filter(question %in% rv_answers())
+    })
+
+    rv_answered <- reactive({
+        rv_selected_data() %>%
+            select(question_no) %>%
+            unique() %>%
+            unlist()
+    })
+
     observeEvent(input$calculate, {
         updateTabsetPanel(session, "enneagram",
                           selected = "results")
     })
     
     rv_filtered <- eventReactive(input$calculate, {
-        data %>%
-            filter(question %in% rv_answers()) %>%
+        rv_selected_data() %>%
             group_by(type) %>%
             summarize(count = n(),
                       triad = first(triad),
@@ -124,11 +135,11 @@ server <- function(input, output, session) {
     output$text <- renderText({
         row <- which(rv_filtered()$count == max(rv_filtered()$count))
         number <- rv_filtered()$number[row]
-        
+
         wing <- calculate_wing(number, rv_filtered())
-        
+
         paste0(number, "w", wing)
-        
+
     })
     
     output$info2 <- renderUI({
@@ -276,11 +287,7 @@ server <- function(input, output, session) {
     
     output$error <- renderText({
         questions <- c(1:144)
-        answered <- data %>%
-            filter(question %in% rv_answers()) %>%
-            select(question_no) %>%
-            unique() %>%
-            unlist()
+        answered <- rv_answered()
         
         missed <- dplyr::setdiff(questions, answered)
         
@@ -292,11 +299,7 @@ server <- function(input, output, session) {
     })
     
     output$cplot <- renderPlot({
-        answered <- data %>%
-            filter(question %in% rv_answers()) %>%
-            select(question_no) %>%
-            unique() %>%
-            unlist()
+        answered <- rv_answered()
         
         if(length(answered) == 144) {
             rv_filtered() %>%

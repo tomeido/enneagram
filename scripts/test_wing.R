@@ -1,11 +1,10 @@
 library(testthat)
 
-# Load the utility function. Note: assuming execution from the project root.
-# If running from within the scripts directory, use source("wing_utils.R")
-if (file.exists("scripts/wing_utils.R")) {
-  source("scripts/wing_utils.R")
+# Run from the repository root or the scripts directory.
+if (file.exists("Enneagram/wing_utils.R")) {
+  source("Enneagram/wing_utils.R")
 } else {
-  source("wing_utils.R")
+  source("../Enneagram/wing_utils.R")
 }
 
 describe("calculate_wing", {

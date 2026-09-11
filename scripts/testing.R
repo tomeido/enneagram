@@ -1,6 +1,12 @@
 library(tidyverse)
 library(ggthemes)
 
+if (file.exists("Enneagram/wing_utils.R")) {
+  source("Enneagram/wing_utils.R")
+} else {
+  source("../Enneagram/wing_utils.R")
+}
+
 praxis <- tibble(letter = c("A", "B", "C", "D", "E", "F", "G", "H", "I"),
                  count  = c(20, 16, 15, 12, 18, 18, 14, 15, 16),
                  type   = c("Nine", "Six", "Three", "One", "Four", "Two", "Eight", "Five", "Seven"),
@@ -31,15 +37,15 @@ ggplot(praxis, aes(x = factor(type,
         axis.text.x = element_text(size = 13, face = "bold"),
         legend.position = "bottom")
 
-source("scripts/wing_utils.R")
-
 row <- which(praxis$count == max(praxis$count))
 
 praxis$type[row]
 
 praxis$triad[row]
 
-wing <- calculate_wing(praxis$number[row], praxis)
+number <- praxis$number[row]
+
+wing <- calculate_wing(number, praxis)
 
 praxis
 
